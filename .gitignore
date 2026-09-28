@@ -1,0 +1,24 @@
+# 编译产物
+*.o
+*.obj
+*.out
+*.exe
+*.elf
+*.hex
+*.bin
+*.d
+
+# 构建目录
+build/
+cmake-build-*/
+
+# IDE 和编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 日志
+*.log
